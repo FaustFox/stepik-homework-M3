@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-import pytest
-from selenium import webdriver
+'''Testing "add_to_basket" button with PyTest.'''
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
